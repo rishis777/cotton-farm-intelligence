@@ -1,0 +1,51 @@
+{
+  "classes": [
+    "Alternaria_Leaf",
+    "Aphids",
+    "Army_worm",
+    "Bacterial_Blight",
+    "Fusarium_Wilt",
+    "Healthy_Leaf",
+    "Powdery_Mildew",
+    "Target_spot",
+    "Verticillium_Wilt"
+  ],
+  "class_to_idx": {
+    "Alternaria_Leaf": 0,
+    "Aphids": 1,
+    "Army_worm": 2,
+    "Bacterial_Blight": 3,
+    "Fusarium_Wilt": 4,
+    "Healthy_Leaf": 5,
+    "Powdery_Mildew": 6,
+    "Target_spot": 7,
+    "Verticillium_Wilt": 8
+  },
+  "idx_to_class": {
+    "0": "Alternaria_Leaf",
+    "1": "Aphids",
+    "2": "Army_worm",
+    "3": "Bacterial_Blight",
+    "4": "Fusarium_Wilt",
+    "5": "Healthy_Leaf",
+    "6": "Powdery_Mildew",
+    "7": "Target_spot",
+    "8": "Verticillium_Wilt"
+  },
+  "input_size": [
+    224,
+    224
+  ],
+  "normalization": {
+    "mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "std": [
+      0.229,
+      0.224,
+      0.225
+    ]
+  }
+}

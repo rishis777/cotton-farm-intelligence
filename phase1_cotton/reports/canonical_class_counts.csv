@@ -1,0 +1,10 @@
+Normalized_Class_Name,Original_Dataset_Count,Augmented_Dataset_Count,Total
+Alternaria Leaf,172,985,1157
+Aphids,1440,120,1560
+Army Worm,1455,120,1575
+Bacterial Blight,1440,1025,2465
+Fusarium Wilt,337,957,1294
+Healthy Leaf,1440,1015,2455
+Powdery Mildew,1459,120,1579
+Target Spot,1440,121,1561
+Verticillium Wilt,312,993,1305

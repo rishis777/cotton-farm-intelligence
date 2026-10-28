@@ -1,0 +1,14 @@
+Folder_Class_Name,Normalized_Class_Name,Original_Dataset_Count,Augmented_Dataset_Count
+Alternaria Leaf Spot,Alternaria Leaf,172,0
+Alternaria_Leaf,Alternaria Leaf,0,985
+Aphids,Aphids,1440,120
+Army_worm,Army Worm,1455,120
+Bacterial_Blight,Bacterial Blight,1440,1025
+Fusarium Wilt,Fusarium Wilt,337,0
+Fusarium_Wilt,Fusarium Wilt,0,957
+Healthy,Healthy Leaf,1440,0
+Healthy_Leaf,Healthy Leaf,0,1015
+Powdery_Mildew,Powdery Mildew,1459,120
+Target_spot,Target Spot,1440,121
+Verticillium Wilt,Verticillium Wilt,312,0
+Verticillium_Wilt,Verticillium Wilt,0,993

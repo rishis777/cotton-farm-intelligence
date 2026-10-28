@@ -1,0 +1,10 @@
+class,test,train,validation,total
+Alternaria_Leaf,148,807,148,1103
+Aphids,23,1017,22,1062
+Army_worm,20,1294,20,1334
+Bacterial_Blight,175,1679,175,2029
+Fusarium_Wilt,142,921,143,1206
+Healthy_Leaf,174,1690,174,2038
+Powdery_Mildew,20,723,35,778
+Target_spot,22,1063,22,1107
+Verticillium_Wilt,147,890,146,1183

@@ -1,0 +1,47 @@
+{
+  "Alternaria_Leaf": {
+    "initial_train_count": 807,
+    "synthesized_augmented": 0,
+    "final_balanced_train_count": 807
+  },
+  "Aphids": {
+    "initial_train_count": 1065,
+    "synthesized_augmented": 0,
+    "final_balanced_train_count": 1065
+  },
+  "Army_worm": {
+    "initial_train_count": 1128,
+    "synthesized_augmented": 0,
+    "final_balanced_train_count": 1128
+  },
+  "Bacterial_Blight": {
+    "initial_train_count": 1683,
+    "synthesized_augmented": 0,
+    "final_balanced_train_count": 1683
+  },
+  "Fusarium_Wilt": {
+    "initial_train_count": 909,
+    "synthesized_augmented": 0,
+    "final_balanced_train_count": 909
+  },
+  "Healthy_Leaf": {
+    "initial_train_count": 1670,
+    "synthesized_augmented": 0,
+    "final_balanced_train_count": 1670
+  },
+  "Powdery_Mildew": {
+    "initial_train_count": 1152,
+    "synthesized_augmented": 0,
+    "final_balanced_train_count": 1152
+  },
+  "Target_spot": {
+    "initial_train_count": 1102,
+    "synthesized_augmented": 0,
+    "final_balanced_train_count": 1102
+  },
+  "Verticillium_Wilt": {
+    "initial_train_count": 902,
+    "synthesized_augmented": 0,
+    "final_balanced_train_count": 902
+  }
+}

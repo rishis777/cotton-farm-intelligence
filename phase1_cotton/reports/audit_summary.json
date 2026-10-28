@@ -1,0 +1,133 @@
+{
+  "total_files": 14955,
+  "valid_images": 14951,
+  "corrupted_images": 0,
+  "os_junk_files": 4,
+  "unique_hashes": 14706,
+  "duplicate_hash_groups": 226,
+  "cross_class_conflicts_count": 14,
+  "cross_class_conflicts": [
+    {
+      "hash": "564b1fb5f7c884410f28578a3ec2d3b7",
+      "classes": [
+        "Verticillium Wilt",
+        "Alternaria Leaf Spot"
+      ],
+      "instances": [
+        "Original Dataset\\Alternaria Leaf Spot\\alternaria_(108).png",
+        "Original Dataset\\Verticillium Wilt\\verticillium_(136).png"
+      ]
+    },
+    {
+      "hash": "18b490e28e7e6d0e4413c132bb707965",
+      "classes": [
+        "Verticillium Wilt",
+        "Alternaria Leaf Spot"
+      ],
+      "instances": [
+        "Original Dataset\\Alternaria Leaf Spot\\alternaria_(119).png",
+        "Original Dataset\\Verticillium Wilt\\verticillium_(137).png"
+      ]
+    },
+    {
+      "hash": "c992ef763c6bb7df7461f3295280befc",
+      "classes": [
+        "Verticillium Wilt",
+        "Alternaria Leaf Spot"
+      ],
+      "instances": [
+        "Original Dataset\\Alternaria Leaf Spot\\alternaria_(13).png",
+        "Original Dataset\\Verticillium Wilt\\verticillium_(233).png"
+      ]
+    },
+    {
+      "hash": "6d02c4bbd1d3111c5dcae27a72e84a26",
+      "classes": [
+        "Verticillium Wilt",
+        "Alternaria Leaf Spot"
+      ],
+      "instances": [
+        "Original Dataset\\Alternaria Leaf Spot\\alternaria_(130).png",
+        "Original Dataset\\Verticillium Wilt\\verticillium_(228).png"
+      ]
+    },
+    {
+      "hash": "1bb71677fc3b68597870ee1b8745abd6",
+      "classes": [
+        "Verticillium Wilt",
+        "Alternaria Leaf Spot"
+      ],
+      "instances": [
+        "Original Dataset\\Alternaria Leaf Spot\\alternaria_(141).png",
+        "Original Dataset\\Verticillium Wilt\\verticillium_(229).png"
+      ]
+    },
+    {
+      "hash": "d968adad74fb3f33887fd0f49abf7dc4",
+      "classes": [
+        "Verticillium Wilt",
+        "Alternaria Leaf Spot"
+      ],
+      "instances": [
+        "Original Dataset\\Alternaria Leaf Spot\\alternaria_(152).png",
+        "Original Dataset\\Verticillium Wilt\\verticillium_(230).png"
+      ]
+    },
+    {
+      "hash": "a527b95c1aaa41db5d2476dde2f26034",
+      "classes": [
+        "Verticillium Wilt",
+        "Alternaria Leaf Spot"
+      ],
+      "instances": [
+        "Original Dataset\\Alternaria Leaf Spot\\alternaria_(163).png",
+        "Original Dataset\\Verticillium Wilt\\verticillium_(231).png"
+      ]
+    },
+    {
+      "hash": "6eb220b81b8d378994cbdad26d32037f",
+      "classes": [
+        "Verticillium Wilt",
+        "Alternaria Leaf Spot"
+      ],
+      "instances": [
+        "Original Dataset\\Alternaria Leaf Spot\\alternaria_(2).png",
+        "Original Dataset\\Verticillium Wilt\\verticillium_(232).png"
+      ]
+    },
+    {
+      "hash": "a21c3b5eb9402bdf42a390cd25fb3fdc",
+      "classes": [
+        "Verticillium Wilt",
+        "Alternaria Leaf Spot"
+      ],
+      "instances": [
+        "Original Dataset\\Alternaria Leaf Spot\\alternaria_(24).png",
+        "Original Dataset\\Verticillium Wilt\\verticillium_(234).png"
+      ]
+    },
+    {
+      "hash": "1ac2c427539014837f6e485391e82d1d",
+      "classes": [
+        "Verticillium Wilt",
+        "Alternaria Leaf Spot"
+      ],
+      "instances": [
+        "Original Dataset\\Alternaria Leaf Spot\\alternaria_(35).png",
+        "Original Dataset\\Verticillium Wilt\\verticillium_(236).png"
+      ]
+    }
+  ],
+  "top_resolutions": [
+    "150x150: 5789",
+    "256x256: 4975",
+    "700x700: 821",
+    "500x500: 222",
+    "691x691: 146"
+  ],
+  "channels": {
+    "RGB": 14949,
+    "RGBA": 1,
+    "P": 1
+  }
+}

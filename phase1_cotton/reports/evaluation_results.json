@@ -1,0 +1,74 @@
+{
+  "overall_accuracy": 0.899,
+  "macro_f1": 0.8741,
+  "weighted_f1": 0.8966,
+  "macro_precision": 0.866,
+  "macro_recall": 0.8905,
+  "total_test_images": 871,
+  "total_misclassified": 88,
+  "per_class_metrics": [
+    {
+      "class": "Alternaria_Leaf",
+      "precision": 0.915,
+      "recall": 0.9459,
+      "f1_score": 0.9302,
+      "test_sample_count": 148
+    },
+    {
+      "class": "Aphids",
+      "precision": 0.8077,
+      "recall": 0.913,
+      "f1_score": 0.8571,
+      "test_sample_count": 23
+    },
+    {
+      "class": "Army_worm",
+      "precision": 0.8947,
+      "recall": 0.85,
+      "f1_score": 0.8718,
+      "test_sample_count": 20
+    },
+    {
+      "class": "Bacterial_Blight",
+      "precision": 0.9683,
+      "recall": 0.6971,
+      "f1_score": 0.8106,
+      "test_sample_count": 175
+    },
+    {
+      "class": "Fusarium_Wilt",
+      "precision": 0.8645,
+      "recall": 0.9437,
+      "f1_score": 0.9024,
+      "test_sample_count": 142
+    },
+    {
+      "class": "Healthy_Leaf",
+      "precision": 0.9774,
+      "recall": 0.9943,
+      "f1_score": 0.9858,
+      "test_sample_count": 174
+    },
+    {
+      "class": "Powdery_Mildew",
+      "precision": 0.7826,
+      "recall": 0.9,
+      "f1_score": 0.8372,
+      "test_sample_count": 20
+    },
+    {
+      "class": "Target_spot",
+      "precision": 0.75,
+      "recall": 0.8182,
+      "f1_score": 0.7826,
+      "test_sample_count": 22
+    },
+    {
+      "class": "Verticillium_Wilt",
+      "precision": 0.8333,
+      "recall": 0.9524,
+      "f1_score": 0.8889,
+      "test_sample_count": 147
+    }
+  ]
+}

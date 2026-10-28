@@ -1,0 +1,9 @@
+{
+  "summary": "Deep forensic investigation of cotton dataset folders.",
+  "original_dataset_hashes": 9314,
+  "augmented_dataset_hashes": 5430,
+  "exact_cross_folder_overlap_count": 38,
+  "total_orig_leaf_signatures": 1693,
+  "multi_variant_leaf_signatures_count": 242,
+  "critical_academic_finding": "The folder named 'Original Dataset' contains thousands of pre-augmented synthetic copies (rotations, crops, flips, brightness changes) sharing common base leaf IDs. A standard random train/test split causes severe data leakage where transformed copies of the same leaf leak into the test set. Grouped or cluster-aware splitting is mandatory."
+}

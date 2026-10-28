@@ -1,0 +1,472 @@
+hash,file_path,class,group_size
+564b1fb5f7c884410f28578a3ec2d3b7,Original Dataset\Alternaria Leaf Spot\alternaria_(108).png,Alternaria Leaf Spot,2
+564b1fb5f7c884410f28578a3ec2d3b7,Original Dataset\Verticillium Wilt\verticillium_(136).png,Verticillium Wilt,2
+18b490e28e7e6d0e4413c132bb707965,Original Dataset\Alternaria Leaf Spot\alternaria_(119).png,Alternaria Leaf Spot,2
+18b490e28e7e6d0e4413c132bb707965,Original Dataset\Verticillium Wilt\verticillium_(137).png,Verticillium Wilt,2
+c992ef763c6bb7df7461f3295280befc,Original Dataset\Alternaria Leaf Spot\alternaria_(13).png,Alternaria Leaf Spot,2
+c992ef763c6bb7df7461f3295280befc,Original Dataset\Verticillium Wilt\verticillium_(233).png,Verticillium Wilt,2
+6d02c4bbd1d3111c5dcae27a72e84a26,Original Dataset\Alternaria Leaf Spot\alternaria_(130).png,Alternaria Leaf Spot,2
+6d02c4bbd1d3111c5dcae27a72e84a26,Original Dataset\Verticillium Wilt\verticillium_(228).png,Verticillium Wilt,2
+1bb71677fc3b68597870ee1b8745abd6,Original Dataset\Alternaria Leaf Spot\alternaria_(141).png,Alternaria Leaf Spot,2
+1bb71677fc3b68597870ee1b8745abd6,Original Dataset\Verticillium Wilt\verticillium_(229).png,Verticillium Wilt,2
+d968adad74fb3f33887fd0f49abf7dc4,Original Dataset\Alternaria Leaf Spot\alternaria_(152).png,Alternaria Leaf Spot,2
+d968adad74fb3f33887fd0f49abf7dc4,Original Dataset\Verticillium Wilt\verticillium_(230).png,Verticillium Wilt,2
+a527b95c1aaa41db5d2476dde2f26034,Original Dataset\Alternaria Leaf Spot\alternaria_(163).png,Alternaria Leaf Spot,2
+a527b95c1aaa41db5d2476dde2f26034,Original Dataset\Verticillium Wilt\verticillium_(231).png,Verticillium Wilt,2
+6eb220b81b8d378994cbdad26d32037f,Original Dataset\Alternaria Leaf Spot\alternaria_(2).png,Alternaria Leaf Spot,2
+6eb220b81b8d378994cbdad26d32037f,Original Dataset\Verticillium Wilt\verticillium_(232).png,Verticillium Wilt,2
+a21c3b5eb9402bdf42a390cd25fb3fdc,Original Dataset\Alternaria Leaf Spot\alternaria_(24).png,Alternaria Leaf Spot,2
+a21c3b5eb9402bdf42a390cd25fb3fdc,Original Dataset\Verticillium Wilt\verticillium_(234).png,Verticillium Wilt,2
+1ac2c427539014837f6e485391e82d1d,Original Dataset\Alternaria Leaf Spot\alternaria_(35).png,Alternaria Leaf Spot,2
+1ac2c427539014837f6e485391e82d1d,Original Dataset\Verticillium Wilt\verticillium_(236).png,Verticillium Wilt,2
+9ebffa5c3f1332cdfc7eb89681e6f6fd,Original Dataset\Alternaria Leaf Spot\alternaria_(46).png,Alternaria Leaf Spot,2
+9ebffa5c3f1332cdfc7eb89681e6f6fd,Original Dataset\Verticillium Wilt\verticillium_(237).png,Verticillium Wilt,2
+db55dc63a9732f4e0051353b83dfaf41,Original Dataset\Alternaria Leaf Spot\alternaria_(57).png,Alternaria Leaf Spot,2
+db55dc63a9732f4e0051353b83dfaf41,Original Dataset\Verticillium Wilt\verticillium_(238).png,Verticillium Wilt,2
+50d793e3977a049bce8fe371fc91e7fa,Original Dataset\Alternaria Leaf Spot\alternaria_(86).png,Alternaria Leaf Spot,2
+50d793e3977a049bce8fe371fc91e7fa,Original Dataset\Verticillium Wilt\verticillium_(133).png,Verticillium Wilt,2
+f468dd07b564972ade4861399c78cc00,Original Dataset\Alternaria Leaf Spot\alternaria_(97).png,Alternaria Leaf Spot,2
+f468dd07b564972ade4861399c78cc00,Original Dataset\Verticillium Wilt\verticillium_(134).png,Verticillium Wilt,2
+4a683ac3db31844d8d9e5492a324b627,Original Dataset\Aphids\14.jpg,Aphids,2
+4a683ac3db31844d8d9e5492a324b627,Original Dataset\Aphids\27.jpg,Aphids,2
+79bc55f05774c49713338f932f2346d4,Original Dataset\Aphids\flip_11.jpg,Aphids,2
+79bc55f05774c49713338f932f2346d4,Original Dataset\Aphids\rotation_11.jpg,Aphids,2
+20cf5acc0f0283e07873e386ddf88798,Original Dataset\Aphids\flip_13.jpg,Aphids,2
+20cf5acc0f0283e07873e386ddf88798,Original Dataset\Aphids\rotation_13.jpg,Aphids,2
+a6dfd1828c4f57c3a1fe56c6cf73c511,Original Dataset\Aphids\flip_15.jpg,Aphids,2
+a6dfd1828c4f57c3a1fe56c6cf73c511,Original Dataset\Aphids\rotation_15.jpg,Aphids,2
+a44bfe5932339092f0c7bd137f4e7af9,Original Dataset\Aphids\flip_24.jpg,Aphids,2
+a44bfe5932339092f0c7bd137f4e7af9,Original Dataset\Aphids\flip_horizontal_24.jpg,Aphids,2
+7612a28b120103233ed7ea5f0d9ae68c,Original Dataset\Aphids\flip_25.jpg,Aphids,2
+7612a28b120103233ed7ea5f0d9ae68c,Original Dataset\Aphids\rotation_25.jpg,Aphids,2
+ac9d8108aa8c8b22539244f211b7376c,Original Dataset\Aphids\flip_27.jpg,Aphids,2
+ac9d8108aa8c8b22539244f211b7376c,Augmented Dataset\Aphids\rotation_27.jpg,Aphids,2
+fe497c9a4baaef3e58db67504d084d91,Original Dataset\Aphids\flip_30.jpg,Aphids,2
+fe497c9a4baaef3e58db67504d084d91,Original Dataset\Aphids\flip_horizontal_30.jpg,Aphids,2
+820fe2e4392001040140c698cb879803,Original Dataset\Aphids\flip_31.jpg,Aphids,2
+820fe2e4392001040140c698cb879803,Original Dataset\Aphids\rotation_31.jpg,Aphids,2
+df949283c74c65108b39015d801e4fd3,Original Dataset\Aphids\flip_32.jpg,Aphids,2
+df949283c74c65108b39015d801e4fd3,Original Dataset\Aphids\rotation_32.jpg,Aphids,2
+e9b8404ac8ede41b92139d11794456eb,Original Dataset\Aphids\flip_33.jpg,Aphids,2
+e9b8404ac8ede41b92139d11794456eb,Augmented Dataset\Aphids\rotation_33.jpg,Aphids,2
+89d5d7152251e3931fb1cefdfb14b5fc,Original Dataset\Aphids\flip_36.jpg,Aphids,2
+89d5d7152251e3931fb1cefdfb14b5fc,Original Dataset\Aphids\flip_horizontal_36.jpg,Aphids,2
+49f25f2074616b34e3163dd7cf55e3c6,Original Dataset\Aphids\flip_38.jpg,Aphids,2
+49f25f2074616b34e3163dd7cf55e3c6,Original Dataset\Aphids\flip_horizontal_38.jpg,Aphids,2
+4dbde92078fa576386d71576263fcce2,Original Dataset\Aphids\flip_horizontal_12.jpg,Aphids,2
+4dbde92078fa576386d71576263fcce2,Original Dataset\Aphids\rotation_12.jpg,Aphids,2
+afd705e0f82b4cbab71b515630763466,Original Dataset\Aphids\flip_horizontal_16.jpg,Aphids,2
+afd705e0f82b4cbab71b515630763466,Original Dataset\Aphids\rotation_16.jpg,Aphids,2
+d3a4ef67e81e11348381f51fc767ba76,Original Dataset\Aphids\flip_horizontal_2.jpg,Aphids,2
+d3a4ef67e81e11348381f51fc767ba76,Original Dataset\Aphids\rotation_2.jpg,Aphids,2
+097c50f88ac29d7a482ed322cdf6a30f,Original Dataset\Aphids\flip_horizontal_21.jpg,Aphids,2
+097c50f88ac29d7a482ed322cdf6a30f,Original Dataset\Aphids\rotation_21.jpg,Aphids,2
+d35eb5ad411b66993315153966ecb625,Original Dataset\Aphids\flip_horizontal_40.jpg,Aphids,2
+d35eb5ad411b66993315153966ecb625,Augmented Dataset\Aphids\rotation_40.jpg,Aphids,2
+0dee0d9b4f3188cae783e19c20dccd6a,Original Dataset\Aphids\flip_horizontal_7.jpg,Aphids,2
+0dee0d9b4f3188cae783e19c20dccd6a,Augmented Dataset\Aphids\rotation_7.jpg,Aphids,2
+8c0d3acb0ace5ffd02ddf1770f9f4cec,Original Dataset\Aphids\pil_constract_14.jpg,Aphids,2
+8c0d3acb0ace5ffd02ddf1770f9f4cec,Original Dataset\Aphids\pil_constract_27.jpg,Aphids,2
+adfbbbb243c1217ab45a53bc689bbeac,Original Dataset\Aphids\pil_sharpness_14.jpg,Aphids,2
+adfbbbb243c1217ab45a53bc689bbeac,Original Dataset\Aphids\pil_sharpness_27.jpg,Aphids,2
+f69cae2d2473ceeb3b796cd34c666cf9,Original Dataset\Aphids\rotation_14.jpg,Aphids,3
+f69cae2d2473ceeb3b796cd34c666cf9,Augmented Dataset\Aphids\flip_horizontal_14.jpg,Aphids,3
+f69cae2d2473ceeb3b796cd34c666cf9,Augmented Dataset\Aphids\flip_horizontal_27.jpg,Aphids,3
+6f15792d900dea9b2ad6c50f5791472c,Original Dataset\Aphids\rotation_18.jpg,Aphids,2
+6f15792d900dea9b2ad6c50f5791472c,Augmented Dataset\Aphids\flip_18.jpg,Aphids,2
+5af0cc52bfd44235eb40cb013d8ad103,Original Dataset\Aphids\rotation_19.jpg,Aphids,2
+5af0cc52bfd44235eb40cb013d8ad103,Augmented Dataset\Aphids\flip_19.jpg,Aphids,2
+4be363c39bc69a58901b4c2e30e0eae8,Original Dataset\Aphids\rotation_5.jpg,Aphids,3
+4be363c39bc69a58901b4c2e30e0eae8,Augmented Dataset\Aphids\flip_5.jpg,Aphids,3
+4be363c39bc69a58901b4c2e30e0eae8,Augmented Dataset\Aphids\flip_horizontal_5.jpg,Aphids,3
+7e4565701c3c44c3e166e1d74f8f61af,Original Dataset\Army_worm\aug_0_pil_sharpness_40(1).jpg,Army_worm,2
+7e4565701c3c44c3e166e1d74f8f61af,Original Dataset\Army_worm\aug_0_pil_sharpness_40.jpg,Army_worm,2
+07ac99d5947e0506bc5c1f6276f3f4ff,Original Dataset\Army_worm\aug_0_translation_18(1).jpg,Army_worm,2
+07ac99d5947e0506bc5c1f6276f3f4ff,Original Dataset\Army_worm\aug_0_translation_18.jpg,Army_worm,2
+e8745f9fc080b4db1a9db772b0edcf3e,Original Dataset\Army_worm\aug_0_translation_24(1).jpg,Army_worm,2
+e8745f9fc080b4db1a9db772b0edcf3e,Original Dataset\Army_worm\aug_0_translation_24.jpg,Army_worm,2
+2ef11ad96e1dee713312f5dbb3daf918,Original Dataset\Army_worm\aug_0_translation_30(1).jpg,Army_worm,2
+2ef11ad96e1dee713312f5dbb3daf918,Original Dataset\Army_worm\aug_0_translation_30.jpg,Army_worm,2
+d5ac974d7dee4deb0f0651b47bc72191,Original Dataset\Army_worm\aug_0_zoom_37(1).jpg,Army_worm,2
+d5ac974d7dee4deb0f0651b47bc72191,Original Dataset\Army_worm\aug_0_zoom_37.jpg,Army_worm,2
+67d22d56b64525711a9c0e367bd13365,Original Dataset\Army_worm\aug_1_pil_constract_2(1).jpg,Army_worm,2
+67d22d56b64525711a9c0e367bd13365,Original Dataset\Army_worm\aug_1_pil_constract_2.jpg,Army_worm,2
+4f7caa28f9535fd23ad919630e9c76c0,Original Dataset\Army_worm\aug_1_pil_sharpness_zoom_25(1).jpg,Army_worm,2
+4f7caa28f9535fd23ad919630e9c76c0,Original Dataset\Army_worm\aug_1_pil_sharpness_zoom_25.jpg,Army_worm,2
+f7358148e8f174b8427c320337b2b3a0,Original Dataset\Army_worm\aug_1_pil_sharpness_zoom_31(1).jpg,Army_worm,2
+f7358148e8f174b8427c320337b2b3a0,Original Dataset\Army_worm\aug_1_pil_sharpness_zoom_31.jpg,Army_worm,2
+3a066e87fb4e6971cde4a5ac3c8ae5bc,Original Dataset\Army_worm\aug_1_rotation_11(1).jpg,Army_worm,2
+3a066e87fb4e6971cde4a5ac3c8ae5bc,Original Dataset\Army_worm\aug_1_rotation_11.jpg,Army_worm,2
+863ace013c0bdcf052450cb3432ee1f1,Original Dataset\Army_worm\aug_1_rotozoom23(1).jpg,Army_worm,2
+863ace013c0bdcf052450cb3432ee1f1,Original Dataset\Army_worm\aug_1_rotozoom23.jpg,Army_worm,2
+e2ebbbb9fa670d6a4413c2b32d257a39,Original Dataset\Army_worm\aug_1_rotozoom37(1).jpg,Army_worm,2
+e2ebbbb9fa670d6a4413c2b32d257a39,Original Dataset\Army_worm\aug_1_rotozoom37.jpg,Army_worm,2
+c14168bc11f0b9f9d1cf4c583e38e841,Original Dataset\Army_worm\aug_1_rotozoom5(1).jpg,Army_worm,2
+c14168bc11f0b9f9d1cf4c583e38e841,Original Dataset\Army_worm\aug_1_rotozoom5.jpg,Army_worm,2
+e26aa1417dc10126ab9312c41287a52f,Original Dataset\Army_worm\constract_high_16(1).jpg,Army_worm,2
+e26aa1417dc10126ab9312c41287a52f,Original Dataset\Army_worm\constract_high_16.jpg,Army_worm,2
+0f9c3d9e7da0879f7ac6500bb2464442,Original Dataset\Army_worm\flip_1.jpg,Army_worm,2
+0f9c3d9e7da0879f7ac6500bb2464442,Original Dataset\Army_worm\flip_horizontal_1.jpg,Army_worm,2
+4d48f09d213fbe798d99495d02cc94dc,Original Dataset\Army_worm\flip_12.jpg,Army_worm,2
+4d48f09d213fbe798d99495d02cc94dc,Original Dataset\Army_worm\flip_horizontal_12.jpg,Army_worm,2
+ea2e8210f3059d02e6048e91517dcdcf,Original Dataset\Army_worm\flip_14.jpg,Army_worm,2
+ea2e8210f3059d02e6048e91517dcdcf,Original Dataset\Army_worm\rotation_14.jpg,Army_worm,2
+6cfc49295ecc27d11054a64f0904165c,Original Dataset\Army_worm\flip_15.jpg,Army_worm,2
+6cfc49295ecc27d11054a64f0904165c,Original Dataset\Army_worm\rotation_15.jpg,Army_worm,2
+5f3658c32bc12997b0ad461e3a866b10,Original Dataset\Army_worm\flip_22.jpg,Army_worm,2
+5f3658c32bc12997b0ad461e3a866b10,Augmented Dataset\Army_worm\rotation_22.jpg,Army_worm,2
+1231f8a1011772da492992f52968cd1a,Original Dataset\Army_worm\flip_25.jpg,Army_worm,2
+1231f8a1011772da492992f52968cd1a,Original Dataset\Army_worm\rotation_25.jpg,Army_worm,2
+5afbf91b342305055993dc5da85dff62,Original Dataset\Army_worm\flip_3.jpg,Army_worm,2
+5afbf91b342305055993dc5da85dff62,Original Dataset\Army_worm\rotation_3.jpg,Army_worm,2
+4fca6f9a08ce7d347087ae51935f5d6d,Original Dataset\Army_worm\flip_30.jpg,Army_worm,2
+4fca6f9a08ce7d347087ae51935f5d6d,Augmented Dataset\Army_worm\rotation_30.jpg,Army_worm,2
+f34c16d9cd3eec9404cf433cda260de9,Original Dataset\Army_worm\flip_33.jpg,Army_worm,3
+f34c16d9cd3eec9404cf433cda260de9,Original Dataset\Army_worm\flip_horizontal_33.jpg,Army_worm,3
+f34c16d9cd3eec9404cf433cda260de9,Augmented Dataset\Army_worm\rotation_33.jpg,Army_worm,3
+0b9b9e848d9bce243b7d665bfeb3f253,Original Dataset\Army_worm\flip_38.jpg,Army_worm,2
+0b9b9e848d9bce243b7d665bfeb3f253,Original Dataset\Army_worm\flip_horizontal_38.jpg,Army_worm,2
+ec375f1febaa2f2edc11131c98f38146,Original Dataset\Army_worm\flip_4.jpg,Army_worm,2
+ec375f1febaa2f2edc11131c98f38146,Original Dataset\Army_worm\rotation_4.jpg,Army_worm,2
+99163bc72dcc34e1d13b3dc3f0302735,Original Dataset\Army_worm\flip_6.jpg,Army_worm,2
+99163bc72dcc34e1d13b3dc3f0302735,Original Dataset\Army_worm\flip_horizontal_6.jpg,Army_worm,2
+1db813059f4227a0145720082a9c908e,Original Dataset\Army_worm\flip_7.jpg,Army_worm,2
+1db813059f4227a0145720082a9c908e,Original Dataset\Army_worm\flip_horizontal_7.jpg,Army_worm,2
+589cdaf6277d83eee008845c367cc7a7,Original Dataset\Army_worm\flip_horizontal_11.jpg,Army_worm,2
+589cdaf6277d83eee008845c367cc7a7,Original Dataset\Army_worm\rotation_11.jpg,Army_worm,2
+470d4cb253208e778f0f6a7ea2675e81,Original Dataset\Army_worm\flip_horizontal_23.jpg,Army_worm,2
+470d4cb253208e778f0f6a7ea2675e81,Original Dataset\Army_worm\rotation_23.jpg,Army_worm,2
+970be447b96607688c0a88c58b2f789e,Original Dataset\Army_worm\flip_horizontal_26.jpg,Army_worm,2
+970be447b96607688c0a88c58b2f789e,Augmented Dataset\Army_worm\flip_26.jpg,Army_worm,2
+c423ebad51aca923709d0d041592a6a1,Original Dataset\Army_worm\flip_horizontal_29.jpg,Army_worm,2
+c423ebad51aca923709d0d041592a6a1,Original Dataset\Army_worm\rotation_29.jpg,Army_worm,2
+449b2b0e7a6ae91e65340318549de75d,Original Dataset\Army_worm\flip_horizontal_32.jpg,Army_worm,2
+449b2b0e7a6ae91e65340318549de75d,Original Dataset\Army_worm\rotation_32.jpg,Army_worm,2
+107d99f5e953f431c38d16a3abd1826b,Original Dataset\Army_worm\flip_horizontal_37.jpg,Army_worm,2
+107d99f5e953f431c38d16a3abd1826b,Original Dataset\Army_worm\rotation_37.jpg,Army_worm,2
+492e5a587ebc4f0d6991dd0ca8d966e0,Original Dataset\Army_worm\flip_horizontal_39.jpg,Army_worm,2
+492e5a587ebc4f0d6991dd0ca8d966e0,Augmented Dataset\Army_worm\rotation_39.jpg,Army_worm,2
+947f060f83b2dca9389b3664f14771d8,Original Dataset\Army_worm\flip_horizontal_40.jpg,Army_worm,2
+947f060f83b2dca9389b3664f14771d8,Augmented Dataset\Army_worm\flip_40.jpg,Army_worm,2
+1bafb83322e5c106ab07b664da842695,Original Dataset\Army_worm\flip_horizontal_8.jpg,Army_worm,2
+1bafb83322e5c106ab07b664da842695,Original Dataset\Army_worm\rotation_8.jpg,Army_worm,2
+13ed155ab4c1f9c299f2f5c137ab94a0,Original Dataset\Army_worm\pil_sharpness_13(1).jpg,Army_worm,2
+13ed155ab4c1f9c299f2f5c137ab94a0,Original Dataset\Army_worm\pil_sharpness_13.jpg,Army_worm,2
+c0d1149919cdb408bfecdd1121d06fdf,Original Dataset\Army_worm\rotation_19.jpg,Army_worm,2
+c0d1149919cdb408bfecdd1121d06fdf,Augmented Dataset\Army_worm\flip_19.jpg,Army_worm,2
+7d8f9791c18649769ea49bfc476423fb,Original Dataset\Army_worm\rotozoom22(1).jpg,Army_worm,2
+7d8f9791c18649769ea49bfc476423fb,Original Dataset\Army_worm\rotozoom22.jpg,Army_worm,2
+83ba27a302d2e41b0d16a79aee3b8f17,Original Dataset\Bacterial_Blight\flip_1.jpg,Bacterial_Blight,3
+83ba27a302d2e41b0d16a79aee3b8f17,Original Dataset\Bacterial_Blight\flip_horizontal_1.jpg,Bacterial_Blight,3
+83ba27a302d2e41b0d16a79aee3b8f17,Original Dataset\Bacterial_Blight\rotation_1.jpg,Bacterial_Blight,3
+1097886d794d618b6f9717de40d6b1b6,Original Dataset\Bacterial_Blight\flip_13.jpg,Bacterial_Blight,2
+1097886d794d618b6f9717de40d6b1b6,Original Dataset\Bacterial_Blight\flip_horizontal_13.jpg,Bacterial_Blight,2
+2e30b4bb7e69d5aaaa1d715a03627b29,Original Dataset\Bacterial_Blight\flip_14.jpg,Bacterial_Blight,2
+2e30b4bb7e69d5aaaa1d715a03627b29,Original Dataset\Bacterial_Blight\rotation_14.jpg,Bacterial_Blight,2
+81147624af6cd60443dcfaae33fe9699,Original Dataset\Bacterial_Blight\flip_2.jpg,Bacterial_Blight,2
+81147624af6cd60443dcfaae33fe9699,Original Dataset\Bacterial_Blight\rotation_2.jpg,Bacterial_Blight,2
+243657d3db32a4af1504a344b465a1ab,Original Dataset\Bacterial_Blight\flip_21.jpg,Bacterial_Blight,2
+243657d3db32a4af1504a344b465a1ab,Original Dataset\Bacterial_Blight\rotation_21.jpg,Bacterial_Blight,2
+c7b1b2489e0915e6ff3dcbb85c469b3c,Original Dataset\Bacterial_Blight\flip_23.jpg,Bacterial_Blight,2
+c7b1b2489e0915e6ff3dcbb85c469b3c,Original Dataset\Bacterial_Blight\flip_horizontal_23.jpg,Bacterial_Blight,2
+ac4a4384994a96330f0836493424c54c,Original Dataset\Bacterial_Blight\flip_24.jpg,Bacterial_Blight,2
+ac4a4384994a96330f0836493424c54c,Original Dataset\Bacterial_Blight\rotation_24.jpg,Bacterial_Blight,2
+a9f2e9a5905a5957cf8bb0fc102d9890,Original Dataset\Bacterial_Blight\flip_3.jpg,Bacterial_Blight,2
+a9f2e9a5905a5957cf8bb0fc102d9890,Original Dataset\Bacterial_Blight\rotation_3.jpg,Bacterial_Blight,2
+bf55feb3eae9507a91335c7828af1e87,Original Dataset\Bacterial_Blight\flip_30.jpg,Bacterial_Blight,2
+bf55feb3eae9507a91335c7828af1e87,Original Dataset\Bacterial_Blight\flip_horizontal_30.jpg,Bacterial_Blight,2
+f597edf6d9e024c9ac2fffda14ad0876,Original Dataset\Bacterial_Blight\flip_31.jpg,Bacterial_Blight,3
+f597edf6d9e024c9ac2fffda14ad0876,Original Dataset\Bacterial_Blight\flip_horizontal_19.jpg,Bacterial_Blight,3
+f597edf6d9e024c9ac2fffda14ad0876,Original Dataset\Bacterial_Blight\flip_horizontal_31.jpg,Bacterial_Blight,3
+f15bd8dc602b81a2bd4771193cd3f38c,Original Dataset\Bacterial_Blight\flip_32.jpg,Bacterial_Blight,2
+f15bd8dc602b81a2bd4771193cd3f38c,Original Dataset\Bacterial_Blight\rotation_32.jpg,Bacterial_Blight,2
+c5209b3395868ac4563e017189fb50c4,Original Dataset\Bacterial_Blight\flip_33.jpg,Bacterial_Blight,2
+c5209b3395868ac4563e017189fb50c4,Original Dataset\Bacterial_Blight\flip_horizontal_33.jpg,Bacterial_Blight,2
+a78f0fbb326fccfac61cc9335ac61426,Original Dataset\Bacterial_Blight\flip_4.jpg,Bacterial_Blight,2
+a78f0fbb326fccfac61cc9335ac61426,Original Dataset\Bacterial_Blight\flip_horizontal_4.jpg,Bacterial_Blight,2
+b6abdf6db8cdfbf74aa0f12dc42f7d77,Original Dataset\Bacterial_Blight\flip_6.jpg,Bacterial_Blight,2
+b6abdf6db8cdfbf74aa0f12dc42f7d77,Original Dataset\Bacterial_Blight\rotation_6.jpg,Bacterial_Blight,2
+135dd60dc8dc5ea6aa3b58f0db878b07,Original Dataset\Bacterial_Blight\flip_horizontal_11.jpg,Bacterial_Blight,2
+135dd60dc8dc5ea6aa3b58f0db878b07,Original Dataset\Bacterial_Blight\rotation_11.jpg,Bacterial_Blight,2
+719a2fb7cc397f84f170cbe78936828c,Original Dataset\Bacterial_Blight\flip_horizontal_15.jpg,Bacterial_Blight,2
+719a2fb7cc397f84f170cbe78936828c,Original Dataset\Bacterial_Blight\rotation_15.jpg,Bacterial_Blight,2
+8a47cfe11ff9b985d9731bf1c8c68bf5,Original Dataset\Bacterial_Blight\flip_horizontal_26.jpg,Bacterial_Blight,2
+8a47cfe11ff9b985d9731bf1c8c68bf5,Original Dataset\Bacterial_Blight\rotation_26.jpg,Bacterial_Blight,2
+483ea170ed4aa3a540b755f0809e1bcd,Original Dataset\Bacterial_Blight\flip_horizontal_38.jpg,Bacterial_Blight,2
+483ea170ed4aa3a540b755f0809e1bcd,Original Dataset\Bacterial_Blight\rotation_38.jpg,Bacterial_Blight,2
+de4ac31dda3b330ae9eefb433f75a026,Original Dataset\Bacterial_Blight\pil_sharpness_19.jpg,Bacterial_Blight,2
+de4ac31dda3b330ae9eefb433f75a026,Original Dataset\Bacterial_Blight\pil_sharpness_31.jpg,Bacterial_Blight,2
+783a24fdce119c36810f4b773923e16f,Original Dataset\Fusarium Wilt\fusarium_(10).png,Fusarium Wilt,2
+783a24fdce119c36810f4b773923e16f,Original Dataset\Fusarium Wilt\fusarium_(11).png,Fusarium Wilt,2
+447ede1d7f72f0bd6667bb359f6b10fb,Original Dataset\Fusarium Wilt\fusarium_(3).png,Fusarium Wilt,2
+447ede1d7f72f0bd6667bb359f6b10fb,Original Dataset\Fusarium Wilt\fusarium_(337).png,Fusarium Wilt,2
+aae14395ad38585a5270c5ccbe64ed8c,Original Dataset\Fusarium Wilt\fusarium_(313).png,Fusarium Wilt,2
+aae14395ad38585a5270c5ccbe64ed8c,Original Dataset\Fusarium Wilt\fusarium_(314).png,Fusarium Wilt,2
+82c3f3a80f2908d559ec4319ddfb64d4,Original Dataset\Fusarium Wilt\fusarium_(315).png,Fusarium Wilt,2
+82c3f3a80f2908d559ec4319ddfb64d4,Original Dataset\Fusarium Wilt\fusarium_(317).png,Fusarium Wilt,2
+9867754bab0ac9467b968e7368eed2bb,Original Dataset\Fusarium Wilt\fusarium_(318).png,Fusarium Wilt,2
+9867754bab0ac9467b968e7368eed2bb,Original Dataset\Fusarium Wilt\fusarium_(319).png,Fusarium Wilt,2
+1a811f7a0e2c971a03f5af672843014a,Original Dataset\Fusarium Wilt\fusarium_(320).png,Fusarium Wilt,2
+1a811f7a0e2c971a03f5af672843014a,Original Dataset\Fusarium Wilt\fusarium_(321).png,Fusarium Wilt,2
+288242881810972fb9fc8cd9769cc4df,Original Dataset\Fusarium Wilt\fusarium_(322).png,Fusarium Wilt,2
+288242881810972fb9fc8cd9769cc4df,Original Dataset\Fusarium Wilt\fusarium_(323).png,Fusarium Wilt,2
+707323bbb54fa45795cde11caa1b8bdd,Original Dataset\Fusarium Wilt\fusarium_(324).png,Fusarium Wilt,2
+707323bbb54fa45795cde11caa1b8bdd,Original Dataset\Fusarium Wilt\fusarium_(325).png,Fusarium Wilt,2
+5d19f5e5b1506a2fb63397e1932ef967,Original Dataset\Fusarium Wilt\fusarium_(326).png,Fusarium Wilt,2
+5d19f5e5b1506a2fb63397e1932ef967,Original Dataset\Fusarium Wilt\fusarium_(328).png,Fusarium Wilt,2
+9c64ab6e3f7986acd41eec12ed5d6143,Original Dataset\Fusarium Wilt\fusarium_(329).png,Fusarium Wilt,2
+9c64ab6e3f7986acd41eec12ed5d6143,Original Dataset\Fusarium Wilt\fusarium_(330).png,Fusarium Wilt,2
+6a380f5821bc48a16360e6b2ead36010,Original Dataset\Fusarium Wilt\fusarium_(331).png,Fusarium Wilt,2
+6a380f5821bc48a16360e6b2ead36010,Original Dataset\Fusarium Wilt\fusarium_(332).png,Fusarium Wilt,2
+db69ecebf3bbe2e4dd51010c3ebabe80,Original Dataset\Fusarium Wilt\fusarium_(333).png,Fusarium Wilt,2
+db69ecebf3bbe2e4dd51010c3ebabe80,Original Dataset\Fusarium Wilt\fusarium_(334).png,Fusarium Wilt,2
+60b0b7801c1925f7b7369b4d64ab97af,Original Dataset\Fusarium Wilt\fusarium_(335).png,Fusarium Wilt,2
+60b0b7801c1925f7b7369b4d64ab97af,Original Dataset\Fusarium Wilt\fusarium_(336).png,Fusarium Wilt,2
+e76a3a6454d6c2863c2a6311a0723ee9,Original Dataset\Fusarium Wilt\fusarium_(4).png,Fusarium Wilt,2
+e76a3a6454d6c2863c2a6311a0723ee9,Original Dataset\Fusarium Wilt\fusarium_(5).png,Fusarium Wilt,2
+d3a98bc955f0e8f5faf7acb0dec65d63,Original Dataset\Fusarium Wilt\fusarium_(6).png,Fusarium Wilt,2
+d3a98bc955f0e8f5faf7acb0dec65d63,Original Dataset\Fusarium Wilt\fusarium_(7).png,Fusarium Wilt,2
+3864a7ac84c933bcbcb995585e15985c,Original Dataset\Fusarium Wilt\fusarium_(8).png,Fusarium Wilt,2
+3864a7ac84c933bcbcb995585e15985c,Original Dataset\Fusarium Wilt\fusarium_(9).png,Fusarium Wilt,2
+592583ff52c42ff7e8677d27b18919c0,Original Dataset\Healthy\flip_1.jpg,Healthy,2
+592583ff52c42ff7e8677d27b18919c0,Original Dataset\Healthy\rotation_1.jpg,Healthy,2
+c6d7d6bb36f9e6f26a8a481098b65633,Original Dataset\Healthy\flip_12.jpg,Healthy,2
+c6d7d6bb36f9e6f26a8a481098b65633,Original Dataset\Healthy\flip_horizontal_12.jpg,Healthy,2
+a9df045e81d3b457090d79f0190dc6c6,Original Dataset\Healthy\flip_13.jpg,Healthy,2
+a9df045e81d3b457090d79f0190dc6c6,Original Dataset\Healthy\flip_horizontal_13.jpg,Healthy,2
+37a33a0c1c256717657b899c8fe88095,Original Dataset\Healthy\flip_22.jpg,Healthy,2
+37a33a0c1c256717657b899c8fe88095,Original Dataset\Healthy\flip_horizontal_22.jpg,Healthy,2
+af49840434c3438b4f46704d1322db67,Original Dataset\Healthy\flip_23.jpg,Healthy,3
+af49840434c3438b4f46704d1322db67,Original Dataset\Healthy\flip_horizontal_23.jpg,Healthy,3
+af49840434c3438b4f46704d1322db67,Original Dataset\Healthy\rotation_23.jpg,Healthy,3
+eddeee16ec3f5229253bc195bd96f1f7,Original Dataset\Healthy\flip_24.jpg,Healthy,2
+eddeee16ec3f5229253bc195bd96f1f7,Original Dataset\Healthy\rotation_24.jpg,Healthy,2
+8ae3343b8ffdc7007fc448f85e0776b9,Original Dataset\Healthy\flip_25.jpg,Healthy,2
+8ae3343b8ffdc7007fc448f85e0776b9,Original Dataset\Healthy\rotation_25.jpg,Healthy,2
+7f1e6e7464dd025942247e5adbbb104c,Original Dataset\Healthy\flip_29.jpg,Healthy,3
+7f1e6e7464dd025942247e5adbbb104c,Original Dataset\Healthy\flip_horizontal_29.jpg,Healthy,3
+7f1e6e7464dd025942247e5adbbb104c,Original Dataset\Healthy\rotation_29.jpg,Healthy,3
+fd33d9ada7cafac49ad53ed5f71407e7,Original Dataset\Healthy\flip_37.jpg,Healthy,2
+fd33d9ada7cafac49ad53ed5f71407e7,Original Dataset\Healthy\flip_horizontal_37.jpg,Healthy,2
+21d7cf51f94cb4ebe0c51be92a81d8e2,Original Dataset\Healthy\flip_39.jpg,Healthy,2
+21d7cf51f94cb4ebe0c51be92a81d8e2,Original Dataset\Healthy\flip_horizontal_39.jpg,Healthy,2
+95f3fc17f8b1fb7face232e077d1fcc5,Original Dataset\Healthy\flip_4.jpg,Healthy,3
+95f3fc17f8b1fb7face232e077d1fcc5,Original Dataset\Healthy\flip_horizontal_4.jpg,Healthy,3
+95f3fc17f8b1fb7face232e077d1fcc5,Original Dataset\Healthy\rotation_4.jpg,Healthy,3
+4cae3d53e513d94745705c8574b62bb4,Original Dataset\Healthy\flip_horizontal_11.jpg,Healthy,2
+4cae3d53e513d94745705c8574b62bb4,Original Dataset\Healthy\rotation_11.jpg,Healthy,2
+3a10971708b7438b6fe3fd6760311b6c,Original Dataset\Healthy\flip_horizontal_18.jpg,Healthy,2
+3a10971708b7438b6fe3fd6760311b6c,Original Dataset\Healthy\rotation_18.jpg,Healthy,2
+a477bf404165def757bf3242d1161acb,Original Dataset\Healthy\flip_horizontal_2.jpg,Healthy,2
+a477bf404165def757bf3242d1161acb,Original Dataset\Healthy\rotation_2.jpg,Healthy,2
+3f508d23ea9187babff6d72449430220,Original Dataset\Healthy\flip_horizontal_28.jpg,Healthy,2
+3f508d23ea9187babff6d72449430220,Original Dataset\Healthy\rotation_28.jpg,Healthy,2
+aa78cca0ddd77c6fb209a49197c47173,Original Dataset\Healthy\flip_horizontal_34.jpg,Healthy,2
+aa78cca0ddd77c6fb209a49197c47173,Original Dataset\Healthy\rotation_34.jpg,Healthy,2
+c9f21be139cdf798213db40bbe25cece,Original Dataset\Healthy\flip_horizontal_38.jpg,Healthy,2
+c9f21be139cdf798213db40bbe25cece,Original Dataset\Healthy\rotation_38.jpg,Healthy,2
+a21bed273b0aeabb2176feb87a8eb439,Original Dataset\Healthy\flip_horizontal_8.jpg,Healthy,2
+a21bed273b0aeabb2176feb87a8eb439,Original Dataset\Healthy\rotation_8.jpg,Healthy,2
+cf575bfb6df382ed1ad81729c3c05a9f,Original Dataset\Powdery_Mildew\aug_0_4(1).jpg,Powdery_Mildew,2
+cf575bfb6df382ed1ad81729c3c05a9f,Original Dataset\Powdery_Mildew\aug_0_4.jpg,Powdery_Mildew,2
+8c5d1e26f81a1917580881112401cc0d,Original Dataset\Powdery_Mildew\aug_0_constract_high_40(1).jpg,Powdery_Mildew,2
+8c5d1e26f81a1917580881112401cc0d,Original Dataset\Powdery_Mildew\aug_0_constract_high_40.jpg,Powdery_Mildew,2
+fedc69c7adaf4765e7acf97f0f4feb4b,Original Dataset\Powdery_Mildew\aug_0_flip_10(1).jpg,Powdery_Mildew,2
+fedc69c7adaf4765e7acf97f0f4feb4b,Original Dataset\Powdery_Mildew\aug_0_flip_10.jpg,Powdery_Mildew,2
+fc8fa976b6030b46d1afe6d2d9e928f2,Original Dataset\Powdery_Mildew\aug_0_flip_horizontal_40(1).jpg,Powdery_Mildew,2
+fc8fa976b6030b46d1afe6d2d9e928f2,Original Dataset\Powdery_Mildew\aug_0_flip_horizontal_40.jpg,Powdery_Mildew,2
+d198ab2c2e1c081cee9dee8089d76622,Original Dataset\Powdery_Mildew\aug_0_pil_sharpness_12(1).jpg,Powdery_Mildew,2
+d198ab2c2e1c081cee9dee8089d76622,Original Dataset\Powdery_Mildew\aug_0_pil_sharpness_12.jpg,Powdery_Mildew,2
+5daa6023d35e39386dacab44f9748de4,Original Dataset\Powdery_Mildew\aug_0_translation_zoom_7(1).jpg,Powdery_Mildew,2
+5daa6023d35e39386dacab44f9748de4,Original Dataset\Powdery_Mildew\aug_0_translation_zoom_7.jpg,Powdery_Mildew,2
+0fdfcf48320cca6088e0d1dde7541318,Original Dataset\Powdery_Mildew\aug_1_10(1).jpg,Powdery_Mildew,2
+0fdfcf48320cca6088e0d1dde7541318,Original Dataset\Powdery_Mildew\aug_1_10.jpg,Powdery_Mildew,2
+629dabefeb1635f4bb0257087f731ee4,Original Dataset\Powdery_Mildew\aug_1_38(1).jpg,Powdery_Mildew,2
+629dabefeb1635f4bb0257087f731ee4,Original Dataset\Powdery_Mildew\aug_1_38.jpg,Powdery_Mildew,2
+fb2af8a18ef8e94b0a6b5bc6fc2af3c5,Original Dataset\Powdery_Mildew\aug_1_constract_high_15(1).jpg,Powdery_Mildew,2
+fb2af8a18ef8e94b0a6b5bc6fc2af3c5,Original Dataset\Powdery_Mildew\aug_1_constract_high_15.jpg,Powdery_Mildew,2
+6b5109a0497a3e06d713ce0ed9397f94,Original Dataset\Powdery_Mildew\aug_1_constract_high_29(1).jpg,Powdery_Mildew,2
+6b5109a0497a3e06d713ce0ed9397f94,Original Dataset\Powdery_Mildew\aug_1_constract_high_29.jpg,Powdery_Mildew,2
+75e3555d765ade115dd37e9becc86340,Original Dataset\Powdery_Mildew\aug_1_constract_high_zoom_1(1).jpg,Powdery_Mildew,2
+75e3555d765ade115dd37e9becc86340,Original Dataset\Powdery_Mildew\aug_1_constract_high_zoom_1.jpg,Powdery_Mildew,2
+8088d28722943e4143c232e8fc0cf3a0,Original Dataset\Powdery_Mildew\aug_1_contrast_2(1).jpg,Powdery_Mildew,2
+8088d28722943e4143c232e8fc0cf3a0,Original Dataset\Powdery_Mildew\aug_1_contrast_2.jpg,Powdery_Mildew,2
+14b70f5095cf84f23c70c77c4592ed59,Original Dataset\Powdery_Mildew\aug_1_contrast_21(1).jpg,Powdery_Mildew,2
+14b70f5095cf84f23c70c77c4592ed59,Original Dataset\Powdery_Mildew\aug_1_contrast_21.jpg,Powdery_Mildew,2
+74d897056bda78afff388e7482495445,Original Dataset\Powdery_Mildew\aug_1_crop_18(1).jpg,Powdery_Mildew,2
+74d897056bda78afff388e7482495445,Original Dataset\Powdery_Mildew\aug_1_crop_18.jpg,Powdery_Mildew,2
+69686fb37b258b66a7e87b2c00ed5dd3,Original Dataset\Powdery_Mildew\aug_1_crop_30(1).jpg,Powdery_Mildew,2
+69686fb37b258b66a7e87b2c00ed5dd3,Original Dataset\Powdery_Mildew\aug_1_crop_30.jpg,Powdery_Mildew,2
+49ffe2e2c35bc574e57866d9599a8fe0,Original Dataset\Powdery_Mildew\aug_1_flip_horizontal_19(1).jpg,Powdery_Mildew,2
+49ffe2e2c35bc574e57866d9599a8fe0,Original Dataset\Powdery_Mildew\aug_1_flip_horizontal_19.jpg,Powdery_Mildew,2
+dee541f3e9d942bce46d8cd0d5321d15,Original Dataset\Powdery_Mildew\aug_1_flip_horizontal_31(1).jpg,Powdery_Mildew,2
+dee541f3e9d942bce46d8cd0d5321d15,Original Dataset\Powdery_Mildew\aug_1_flip_horizontal_31.jpg,Powdery_Mildew,2
+3f85d84c53436b9d6cdc52e031acea22,Original Dataset\Powdery_Mildew\flip_1.jpg,Powdery_Mildew,2
+3f85d84c53436b9d6cdc52e031acea22,Original Dataset\Powdery_Mildew\rotation_1.jpg,Powdery_Mildew,2
+eb2580c65c7931ffebe1f2a07ef06d75,Original Dataset\Powdery_Mildew\flip_11.jpg,Powdery_Mildew,2
+eb2580c65c7931ffebe1f2a07ef06d75,Original Dataset\Powdery_Mildew\rotation_11.jpg,Powdery_Mildew,2
+38bef715f073cd81e754db74b34ef89b,Original Dataset\Powdery_Mildew\flip_12.jpg,Powdery_Mildew,2
+38bef715f073cd81e754db74b34ef89b,Original Dataset\Powdery_Mildew\flip_horizontal_12.jpg,Powdery_Mildew,2
+26893df9a24b9ec37124d7da99bb3f46,Original Dataset\Powdery_Mildew\flip_13.jpg,Powdery_Mildew,2
+26893df9a24b9ec37124d7da99bb3f46,Original Dataset\Powdery_Mildew\flip_horizontal_13.jpg,Powdery_Mildew,2
+7999fe970e360e883a58481b4ae06def,Original Dataset\Powdery_Mildew\flip_14.jpg,Powdery_Mildew,2
+7999fe970e360e883a58481b4ae06def,Original Dataset\Powdery_Mildew\rotation_14.jpg,Powdery_Mildew,2
+9e9275a676ab9fede23fc9e135f3fe1c,Original Dataset\Powdery_Mildew\flip_16.jpg,Powdery_Mildew,2
+9e9275a676ab9fede23fc9e135f3fe1c,Original Dataset\Powdery_Mildew\flip_horizontal_16.jpg,Powdery_Mildew,2
+c9b74c98e31452ddcdf92df5a8bd6e7f,Original Dataset\Powdery_Mildew\flip_23.jpg,Powdery_Mildew,2
+c9b74c98e31452ddcdf92df5a8bd6e7f,Original Dataset\Powdery_Mildew\flip_horizontal_23.jpg,Powdery_Mildew,2
+c4ea525fb53ba0869384d49988be1ca5,Original Dataset\Powdery_Mildew\flip_25.jpg,Powdery_Mildew,2
+c4ea525fb53ba0869384d49988be1ca5,Augmented Dataset\Powdery_Mildew\flip_horizontal_25.jpg,Powdery_Mildew,2
+2c6ba8c81ac0984afa721a19576ddad6,Original Dataset\Powdery_Mildew\flip_27.jpg,Powdery_Mildew,2
+2c6ba8c81ac0984afa721a19576ddad6,Augmented Dataset\Powdery_Mildew\flip_horizontal_27.jpg,Powdery_Mildew,2
+00b3c027c7d8fdaa7f88669aa1362030,Original Dataset\Powdery_Mildew\flip_28.jpg,Powdery_Mildew,2
+00b3c027c7d8fdaa7f88669aa1362030,Original Dataset\Powdery_Mildew\rotation_28.jpg,Powdery_Mildew,2
+b03123405a8941f613b54c7c8c897598,Original Dataset\Powdery_Mildew\flip_3.jpg,Powdery_Mildew,2
+b03123405a8941f613b54c7c8c897598,Original Dataset\Powdery_Mildew\rotation_3.jpg,Powdery_Mildew,2
+7a9912a71bf46a1e4984c38c7d299c51,Original Dataset\Powdery_Mildew\flip_32.jpg,Powdery_Mildew,2
+7a9912a71bf46a1e4984c38c7d299c51,Original Dataset\Powdery_Mildew\flip_horizontal_32.jpg,Powdery_Mildew,2
+5b6bf6158d3280e2dac0f1ce8d8a044a,Original Dataset\Powdery_Mildew\flip_36.jpg,Powdery_Mildew,2
+5b6bf6158d3280e2dac0f1ce8d8a044a,Original Dataset\Powdery_Mildew\flip_horizontal_36.jpg,Powdery_Mildew,2
+35e66c42b2fca09556a8503b64daeabb,Original Dataset\Powdery_Mildew\flip_4.jpg,Powdery_Mildew,3
+35e66c42b2fca09556a8503b64daeabb,Original Dataset\Powdery_Mildew\flip_horizontal_4.jpg,Powdery_Mildew,3
+35e66c42b2fca09556a8503b64daeabb,Original Dataset\Powdery_Mildew\rotation_4.jpg,Powdery_Mildew,3
+210c4bf66a6e54c080dfdaf51784a54b,Original Dataset\Powdery_Mildew\flip_9.jpg,Powdery_Mildew,2
+210c4bf66a6e54c080dfdaf51784a54b,Original Dataset\Powdery_Mildew\flip_horizontal_9.jpg,Powdery_Mildew,2
+8b4a78ecf4d753052625a6b20d497067,Original Dataset\Powdery_Mildew\flip_horizontal_10.jpg,Powdery_Mildew,2
+8b4a78ecf4d753052625a6b20d497067,Original Dataset\Powdery_Mildew\rotation_10.jpg,Powdery_Mildew,2
+21e69c41379acf2b8edfb03444093ea1,Original Dataset\Powdery_Mildew\flip_horizontal_20.jpg,Powdery_Mildew,2
+21e69c41379acf2b8edfb03444093ea1,Augmented Dataset\Powdery_Mildew\rotation_20.jpg,Powdery_Mildew,2
+db32747ba46cf77ebf821a21faff29d9,Original Dataset\Powdery_Mildew\flip_horizontal_26.jpg,Powdery_Mildew,3
+db32747ba46cf77ebf821a21faff29d9,Original Dataset\Powdery_Mildew\rotation_26.jpg,Powdery_Mildew,3
+db32747ba46cf77ebf821a21faff29d9,Augmented Dataset\Powdery_Mildew\flip_26.jpg,Powdery_Mildew,3
+17b2589e995072373a33413faafb6070,Original Dataset\Powdery_Mildew\flip_horizontal_29.jpg,Powdery_Mildew,2
+17b2589e995072373a33413faafb6070,Original Dataset\Powdery_Mildew\rotation_29.jpg,Powdery_Mildew,2
+ed896d0032ca93749362303e272cdd93,Original Dataset\Powdery_Mildew\flip_horizontal_30.jpg,Powdery_Mildew,2
+ed896d0032ca93749362303e272cdd93,Augmented Dataset\Powdery_Mildew\rotation_30.jpg,Powdery_Mildew,2
+f38b23965cb9d232d6d8dc93a64c6d58,Original Dataset\Powdery_Mildew\flip_horizontal_31.jpg,Powdery_Mildew,3
+f38b23965cb9d232d6d8dc93a64c6d58,Original Dataset\Powdery_Mildew\rotation_31(1).jpg,Powdery_Mildew,3
+f38b23965cb9d232d6d8dc93a64c6d58,Original Dataset\Powdery_Mildew\rotation_31.jpg,Powdery_Mildew,3
+8596bb9c43a396f83ea569f22a4ac885,Original Dataset\Powdery_Mildew\flip_horizontal_37.jpg,Powdery_Mildew,2
+8596bb9c43a396f83ea569f22a4ac885,Original Dataset\Powdery_Mildew\rotation_37.jpg,Powdery_Mildew,2
+8ac510312820199e0fe5eb7fd2bd0832,Original Dataset\Powdery_Mildew\flip_horizontal_39.jpg,Powdery_Mildew,2
+8ac510312820199e0fe5eb7fd2bd0832,Augmented Dataset\Powdery_Mildew\rotation_39.jpg,Powdery_Mildew,2
+1b4d9b677fa1040aae1e158b45edbe91,Original Dataset\Powdery_Mildew\flip_horizontal_7.jpg,Powdery_Mildew,2
+1b4d9b677fa1040aae1e158b45edbe91,Augmented Dataset\Powdery_Mildew\rotation_7.jpg,Powdery_Mildew,2
+ae7121adb48a483c08c8a5da6dd076b5,Original Dataset\Powdery_Mildew\pil_constract_27(1).jpg,Powdery_Mildew,2
+ae7121adb48a483c08c8a5da6dd076b5,Original Dataset\Powdery_Mildew\pil_constract_27.jpg,Powdery_Mildew,2
+603c51c92100891956b31d6c7a4d0d15,Original Dataset\Powdery_Mildew\rotation_18.jpg,Powdery_Mildew,2
+603c51c92100891956b31d6c7a4d0d15,Augmented Dataset\Powdery_Mildew\flip_18.jpg,Powdery_Mildew,2
+414df09b806dd38b9cf5155052f306a1,Original Dataset\Target_spot\30.jpg,Target_spot,2
+414df09b806dd38b9cf5155052f306a1,Original Dataset\Target_spot\7.jpg,Target_spot,2
+6f41a6d1eef37421ae250b9aebe4de17,Original Dataset\Target_spot\flip_11.jpg,Target_spot,3
+6f41a6d1eef37421ae250b9aebe4de17,Original Dataset\Target_spot\flip_horizontal_11.jpg,Target_spot,3
+6f41a6d1eef37421ae250b9aebe4de17,Original Dataset\Target_spot\rotation_11.jpg,Target_spot,3
+b59aa8f05e9eed8c49879f0312901fa0,Original Dataset\Target_spot\flip_12.jpg,Target_spot,2
+b59aa8f05e9eed8c49879f0312901fa0,Original Dataset\Target_spot\flip_horizontal_12.jpg,Target_spot,2
+d152db6cb6f8dc32afc77647151fe691,Original Dataset\Target_spot\flip_13.jpg,Target_spot,2
+d152db6cb6f8dc32afc77647151fe691,Original Dataset\Target_spot\flip_horizontal_13.jpg,Target_spot,2
+2f542f9ac3f5cadef9fcd5df69a08cdd,Original Dataset\Target_spot\flip_24.jpg,Target_spot,2
+2f542f9ac3f5cadef9fcd5df69a08cdd,Original Dataset\Target_spot\rotation_24.jpg,Target_spot,2
+4bfa4de0f05092119a2f8c24720d6944,Original Dataset\Target_spot\flip_27.jpg,Target_spot,2
+4bfa4de0f05092119a2f8c24720d6944,Augmented Dataset\Target_spot\flip_horizontal_27.jpg,Target_spot,2
+af16f72139c0e048c9566f6aa58e0587,Original Dataset\Target_spot\flip_28.jpg,Target_spot,2
+af16f72139c0e048c9566f6aa58e0587,Original Dataset\Target_spot\flip_horizontal_28.jpg,Target_spot,2
+9134b4d74928f5817645627ece7d18d2,Original Dataset\Target_spot\flip_29.jpg,Target_spot,3
+9134b4d74928f5817645627ece7d18d2,Original Dataset\Target_spot\flip_horizontal_29.jpg,Target_spot,3
+9134b4d74928f5817645627ece7d18d2,Original Dataset\Target_spot\rotation_29.jpg,Target_spot,3
+13076c796fb3fcb2b54aee049b26678a,Original Dataset\Target_spot\flip_30.jpg,Target_spot,4
+13076c796fb3fcb2b54aee049b26678a,Original Dataset\Target_spot\flip_horizontal_30.jpg,Target_spot,4
+13076c796fb3fcb2b54aee049b26678a,Original Dataset\Target_spot\flip_horizontal_7.jpg,Target_spot,4
+13076c796fb3fcb2b54aee049b26678a,Original Dataset\Target_spot\rotation_30.jpg,Target_spot,4
+ae928a4ceff20cd78bff04e19b71f3a5,Original Dataset\Target_spot\flip_32.jpg,Target_spot,2
+ae928a4ceff20cd78bff04e19b71f3a5,Augmented Dataset\Target_spot\rotation_32.jpg,Target_spot,2
+504d0cfceb31879e1b010be8e20a9b95,Original Dataset\Target_spot\flip_36.jpg,Target_spot,2
+504d0cfceb31879e1b010be8e20a9b95,Original Dataset\Target_spot\flip_horizontal_36.jpg,Target_spot,2
+67f70cf797ad57f6681cab0bf13c4fcd,Original Dataset\Target_spot\flip_37.jpg,Target_spot,2
+67f70cf797ad57f6681cab0bf13c4fcd,Original Dataset\Target_spot\rotation_37.jpg,Target_spot,2
+60d26c4b82cdfa1544133174cdfe5838,Original Dataset\Target_spot\flip_38.jpg,Target_spot,3
+60d26c4b82cdfa1544133174cdfe5838,Original Dataset\Target_spot\flip_horizontal_38.jpg,Target_spot,3
+60d26c4b82cdfa1544133174cdfe5838,Augmented Dataset\Target_spot\rotation_38.jpg,Target_spot,3
+8a15b0de5960b02a1f3cea865180e3c9,Original Dataset\Target_spot\flip_6.jpg,Target_spot,3
+8a15b0de5960b02a1f3cea865180e3c9,Original Dataset\Target_spot\flip_horizontal_6.jpg,Target_spot,3
+8a15b0de5960b02a1f3cea865180e3c9,Augmented Dataset\Target_spot\rotation_6.jpg,Target_spot,3
+a6037898298b55a69581efd01f88f672,Original Dataset\Target_spot\flip_horizontal_18.jpg,Target_spot,2
+a6037898298b55a69581efd01f88f672,Augmented Dataset\Target_spot\flip_18.jpg,Target_spot,2
+52e440a899dbe531b439bf0d794dfd7a,Original Dataset\Target_spot\flip_horizontal_19.jpg,Target_spot,2
+52e440a899dbe531b439bf0d794dfd7a,Augmented Dataset\Target_spot\flip_19.jpg,Target_spot,2
+ce724d6ce3848827ecbc5392c9a5f52b,Original Dataset\Target_spot\flip_horizontal_2.jpg,Target_spot,2
+ce724d6ce3848827ecbc5392c9a5f52b,Augmented Dataset\Target_spot\rotation_2.jpg,Target_spot,2
+52af9231a981809ebf09571667762cd3,Original Dataset\Target_spot\flip_horizontal_22.jpg,Target_spot,2
+52af9231a981809ebf09571667762cd3,Original Dataset\Target_spot\rotation_22.jpg,Target_spot,2
+8bd7b315f164667b1f344c7800fa0f3b,Original Dataset\Target_spot\flip_horizontal_23.jpg,Target_spot,2
+8bd7b315f164667b1f344c7800fa0f3b,Original Dataset\Target_spot\rotation_23.jpg,Target_spot,2
+8a7af3f2ec1410af482d50e37df441cb,Original Dataset\Target_spot\flip_horizontal_3.jpg,Target_spot,2
+8a7af3f2ec1410af482d50e37df441cb,Augmented Dataset\Target_spot\rotation_3.jpg,Target_spot,2
+4a4c07c64f187771c3b3915c15314237,Original Dataset\Target_spot\flip_horizontal_39.jpg,Target_spot,2
+4a4c07c64f187771c3b3915c15314237,Original Dataset\Target_spot\rotation_39.jpg,Target_spot,2
+54b8159857d4a3a2b15cb859ac0d5e75,Original Dataset\Target_spot\flip_horizontal_4.jpg,Target_spot,2
+54b8159857d4a3a2b15cb859ac0d5e75,Augmented Dataset\Target_spot\rotation_4.jpg,Target_spot,2
+f7b5a9766ddbe33c9452eac67410f286,Original Dataset\Target_spot\flip_horizontal_40.jpg,Target_spot,3
+f7b5a9766ddbe33c9452eac67410f286,Original Dataset\Target_spot\rotation_40.jpg,Target_spot,3
+f7b5a9766ddbe33c9452eac67410f286,Augmented Dataset\Target_spot\flip_40.jpg,Target_spot,3
+1eeafe6e3ddb236020c93d4638212212,Original Dataset\Target_spot\flip_horizontal_8.jpg,Target_spot,3
+1eeafe6e3ddb236020c93d4638212212,Augmented Dataset\Target_spot\flip_8.jpg,Target_spot,3
+1eeafe6e3ddb236020c93d4638212212,Augmented Dataset\Target_spot\rotation_8.jpg,Target_spot,3
+2ca448ca96913e4d3e3370bac2671563,Original Dataset\Target_spot\flip_horizontal_9.png,Target_spot,2
+2ca448ca96913e4d3e3370bac2671563,Original Dataset\Target_spot\rotation_9.png,Target_spot,2
+9928cca59759b12986eef993ef96b59a,Original Dataset\Target_spot\pil_constract_30.jpg,Target_spot,2
+9928cca59759b12986eef993ef96b59a,Augmented Dataset\Target_spot\pil_constract_7.jpg,Target_spot,2
+f1f76e2913c1b3e696513b98df7f3221,Original Dataset\Target_spot\pil_sharpness_7.jpg,Target_spot,2
+f1f76e2913c1b3e696513b98df7f3221,Augmented Dataset\Target_spot\pil_sharpness_30.jpg,Target_spot,2
+f17d1645bbb1b9e11c7e227723b28d58,Original Dataset\Target_spot\rotation_17.jpg,Target_spot,2
+f17d1645bbb1b9e11c7e227723b28d58,Augmented Dataset\Target_spot\flip_horizontal_17.jpg,Target_spot,2
+d39e288546392b22f7ad13dfc21f09ba,Original Dataset\Target_spot\rotation_5.jpg,Target_spot,2
+d39e288546392b22f7ad13dfc21f09ba,Augmented Dataset\Target_spot\flip_horizontal_5.jpg,Target_spot,2
+759f1bfb5c36d490ba88017a1c98179b,Original Dataset\Verticillium Wilt\verticillium_(246).png,Verticillium Wilt,2
+759f1bfb5c36d490ba88017a1c98179b,Original Dataset\Verticillium Wilt\verticillium_(248).png,Verticillium Wilt,2
+5e1ef5689a76a855e520a08d39c00ba3,Augmented Dataset\Aphids\flip_17.jpg,Aphids,2
+5e1ef5689a76a855e520a08d39c00ba3,Augmented Dataset\Aphids\flip_horizontal_17.jpg,Aphids,2
+6388be9b8d6fa18a537efb3beecc5b14,Augmented Dataset\Aphids\flip_35.jpg,Aphids,2
+6388be9b8d6fa18a537efb3beecc5b14,Augmented Dataset\Aphids\flip_horizontal_35.jpg,Aphids,2
+0d45ef6a1e3618e78de54b02b0c4eb0b,Augmented Dataset\Army_worm\flip_17.jpg,Army_worm,2
+0d45ef6a1e3618e78de54b02b0c4eb0b,Augmented Dataset\Army_worm\flip_horizontal_17.jpg,Army_worm,2
+232629e7a1e14e69be5ebac1873e5af2,Augmented Dataset\Powdery_Mildew\flip_35.jpg,Powdery_Mildew,2
+232629e7a1e14e69be5ebac1873e5af2,Augmented Dataset\Powdery_Mildew\flip_horizontal_35.jpg,Powdery_Mildew,2
+91c7c5a026dc69d929d546a657746157,Augmented Dataset\Powdery_Mildew\flip_40.jpg,Powdery_Mildew,2
+91c7c5a026dc69d929d546a657746157,Augmented Dataset\Powdery_Mildew\rotation_40.jpg,Powdery_Mildew,2
+605a6e4b3e210a56a7ef539dae0f1467,Augmented Dataset\Target_spot\flip_26.jpg,Target_spot,2
+605a6e4b3e210a56a7ef539dae0f1467,Augmented Dataset\Target_spot\rotation_26.jpg,Target_spot,2
+a54c5cd22a9de4211ed54bb37204a6d0,Augmented Dataset\Target_spot\flip_horizontal_35.jpg,Target_spot,2
+a54c5cd22a9de4211ed54bb37204a6d0,Augmented Dataset\Target_spot\rotation_35.jpg,Target_spot,2
+b15adf30e615ab851e3e82b5b04e77b4,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(180)(1).png,Verticillium_Wilt,2
+b15adf30e615ab851e3e82b5b04e77b4,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(180).png,Verticillium_Wilt,2
+619f177bbf932c16fc3d692e515c0037,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(207)(1).png,Verticillium_Wilt,2
+619f177bbf932c16fc3d692e515c0037,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(207).png,Verticillium_Wilt,2
+023e5014fb6ebb9165d9b1373178c709,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(211)(1).png,Verticillium_Wilt,2
+023e5014fb6ebb9165d9b1373178c709,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(211).png,Verticillium_Wilt,2
+11c9e4a319739877d5d69c7b5efc6ac1,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(25)(1).png,Verticillium_Wilt,2
+11c9e4a319739877d5d69c7b5efc6ac1,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(25).png,Verticillium_Wilt,2
+f4b345c4df484c871543619f0f15f884,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(303)(1).png,Verticillium_Wilt,2
+f4b345c4df484c871543619f0f15f884,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(303).png,Verticillium_Wilt,2
+3a162c459699c92ae37cae43c727f90f,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(354)(1).png,Verticillium_Wilt,2
+3a162c459699c92ae37cae43c727f90f,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(354).png,Verticillium_Wilt,2
+d1c189d4c048f445c083da423aabc1dd,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(495)(1).png,Verticillium_Wilt,2
+d1c189d4c048f445c083da423aabc1dd,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(495).png,Verticillium_Wilt,2
+0ef6487f927708a64422be14ffa4e942,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(587)(1).png,Verticillium_Wilt,2
+0ef6487f927708a64422be14ffa4e942,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(587).png,Verticillium_Wilt,2
+aaee0eb76086e5f5fdd766f54fc39b75,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(591)(1).png,Verticillium_Wilt,2
+aaee0eb76086e5f5fdd766f54fc39b75,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(591).png,Verticillium_Wilt,2
+5a84907793fec2bcbe182a090fdf7914,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(616)(1).png,Verticillium_Wilt,2
+5a84907793fec2bcbe182a090fdf7914,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(616).png,Verticillium_Wilt,2
+fda420fcf08e03dcbc4c73bdfebc40c8,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(641)(1).png,Verticillium_Wilt,2
+fda420fcf08e03dcbc4c73bdfebc40c8,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(641).png,Verticillium_Wilt,2
+3837959bd889c8bdbc8d691d68c06d1b,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(704)(1).png,Verticillium_Wilt,2
+3837959bd889c8bdbc8d691d68c06d1b,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(704).png,Verticillium_Wilt,2
+3a52a6bd907612deff02be109e8dd739,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(72)(1).png,Verticillium_Wilt,2
+3a52a6bd907612deff02be109e8dd739,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(72).png,Verticillium_Wilt,2
+3888353bd5dede68d98c71cc64fc9443,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(883)(1).png,Verticillium_Wilt,2
+3888353bd5dede68d98c71cc64fc9443,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(883).png,Verticillium_Wilt,2
+7ea5d53db49994bcc2eb5523cedc66b7,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(929)(1).png,Verticillium_Wilt,2
+7ea5d53db49994bcc2eb5523cedc66b7,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(929).png,Verticillium_Wilt,2
+7312fe81658d7c463df9d56e15b005a5,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(968)(1).png,Verticillium_Wilt,2
+7312fe81658d7c463df9d56e15b005a5,Augmented Dataset\Verticillium_Wilt\aug_verticillium_(968).png,Verticillium_Wilt,2
